@@ -177,7 +177,7 @@ if (initCheck()) {
             "https://cdn.jsdelivr.net/gh/M1niLong/CDN@1.0.1/homeIMG.js"
         ],
         homeBannerText: "",
-        homeBannerTextType: "jinrishici",
+        homeBannerTextType: "",
         essayTopImg: [
             "https://cdn.jsdelivr.net/gh/M1niLong/CDN@1.0.1/homeIMG.js"
         ],
