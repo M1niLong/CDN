@@ -174,12 +174,12 @@ if (initCheck()) {
             animateSections: true
         },
         homeTopImg: [
-            "https://cdn.jsdelivr.net/gh/M1niLong/CDN@1.0.1/homeIMG.js"
+            "https://cdn.jsdelivr.net/gh/M1niLong/CDN@1.0.1/homeIMG.jpg"
         ],
         homeBannerText: "",
         homeBannerTextType: "",
         essayTopImg: [
-            "https://cdn.jsdelivr.net/gh/M1niLong/CDN@1.0.1/homeIMG.js"
+            "https://cdn.jsdelivr.net/gh/M1niLong/CDN@1.0.1/homeIMG.jpg"
         ],
         essayCodeHighlightingType: 'cnblogs',
         essayCodeHighlighting: '',
