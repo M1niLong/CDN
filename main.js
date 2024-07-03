@@ -75,8 +75,6 @@ if (initCheck()) {
         '    <div class="vertical">' +
         '        <div class="main-header-content inner">' +
         '            <h1 class="page-title" id="homeTopTitle"></h1>' +
-        '            <h2 class="page-description" id="hitokoto"></h2>' +
-        '            <h3 class="page-author" id="hitokotoAuthor"></h3>' +
         '            <h1 class="sb-title" id="sbTitle"></h1>' +
         '            <p class="article-info" id="articleInfo"></p>' +
         '        </div>' +
